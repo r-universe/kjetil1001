@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BayesDA"]
+	path = BayesDA
+	url = https://github.com/cran/BayesDA
+	shallow = true
+	registered = true
+[submodule "BHH2"]
+	path = BHH2
+	url = https://github.com/cran/BHH2
+	shallow = true
+	registered = true
+[submodule "Fahrmeir"]
+	path = Fahrmeir
+	url = https://github.com/cran/Fahrmeir
+	shallow = true
+	registered = true
+[submodule "SenSrivastava"]
+	path = SenSrivastava
+	url = https://github.com/cran/SenSrivastava
+	shallow = true
+	registered = true
